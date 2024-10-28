@@ -23,3 +23,7 @@ The project comprises the following components:
 - **Predictive Modeling with Facebook Prophet:** We train a predictive model on historical occupancy data to forecast future room usage.
 
 - **Google Cloud VM for Prediction Execution:** A virtual machine on Google Cloud is configured with a Cronjob to periodically run the trained model, generate predictions, and send results back to the IoT platform for visualization.
+
+
+## Project Reports
+For a more detailed look at our work, check out our reports in project_reports folder.
